@@ -35,3 +35,7 @@ Config (`settings/config.example.json`)
 }
 ```
 **<RENAME FILE TO config.json>**
+  
+**From here you can then open command prompt and type node index (make sure to install node from nodejs.org)**
+
+**ENJOY**
