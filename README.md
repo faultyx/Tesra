@@ -10,6 +10,8 @@
 
 **Setting up the BOT**
 
+CONFIG AND CREDENTIALS NEED TO BE RENAMED TO config.json and credentials.json
+
 Fill in your details in:
 Credentials (`settings/credentials.example.json`) 
 **<RENAME FILE TO credentials.json>**
