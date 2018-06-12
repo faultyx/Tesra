@@ -39,3 +39,9 @@ Config (`settings/config.example.json`)
 **From here you can then open command prompt and type node index (make sure to install node from nodejs.org)**
 
 **ENJOY**
+
+
+## Licence
+This repo is under MIT Licence [CLick here for Licence File]()
+If you mess up and bot stop working its your problem not mind oh and
+make sure to credit me!
