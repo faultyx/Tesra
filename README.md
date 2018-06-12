@@ -6,6 +6,7 @@
 `os` (npm install os)
 
 **Setting up the BOT**
+
 Fill in your details in:
 Credentials (`settings/credentials.json`) **<RENAME FILE TO credentials.json>**
 ```js
@@ -15,4 +16,5 @@ Credentials (`settings/credentials.json`) **<RENAME FILE TO credentials.json>**
   "botToken": "BOT TOKEN"
 }
 ```
+Fill in your details in: 
 Config (`settings/config.example.json`) **<RENAME FILE TO config.json>**
