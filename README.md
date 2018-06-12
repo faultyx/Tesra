@@ -11,7 +11,8 @@
 **Setting up the BOT**
 
 Fill in your details in:
-Credentials (`settings/credentials.json`) **<RENAME FILE TO credentials.json>**
+Credentials (`settings/credentials.example.json`) 
+**<RENAME FILE TO credentials.json>**
 ```js
   {
   "botID": "BOT ID",
@@ -20,4 +21,5 @@ Credentials (`settings/credentials.json`) **<RENAME FILE TO credentials.json>**
 }
 ```
 Fill in your details in: 
-Config (`settings/config.example.json`) **<RENAME FILE TO config.json>**
+Config (`settings/config.example.json`) 
+**<RENAME FILE TO config.json>**
