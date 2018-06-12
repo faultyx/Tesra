@@ -10,7 +10,7 @@
 
 **Setting up the BOT**
 
-CONFIG AND CREDENTIALS NEED TO BE RENAMED TO config.json and credentials.json
+`CONFIG AND CREDENTIALS NEED TO BE RENAMED TO config.json and credentials.json`
 
 Fill in your details in:
 Credentials (`settings/credentials.example.json`) 
@@ -24,4 +24,10 @@ Credentials (`settings/credentials.example.json`)
 ```
 Fill in your details in: 
 Config (`settings/config.example.json`) 
+```js
+  {
+  "prefix": "PREFIX",
+  "activity": "GAME NAME"
+}
+```
 **<RENAME FILE TO config.json>**
