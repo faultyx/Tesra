@@ -43,5 +43,6 @@ Config (`settings/config.example.json`)
 
 ## Licence
 This repo is under MIT Licence [CLick here for Licence File]()
+
 If you mess up and bot stop working its your problem not mind oh and
 make sure to credit me!
