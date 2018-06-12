@@ -14,8 +14,7 @@
 
 `NOTE: bot token can be found from discordapp.com/developers/applications/me (tutorial in BOTAPP.md)`
 
-`NOTE: Click the gear button at the bottom where your USER#0000 and status are at -
-then go into Appearance and check Developer-Mode (then right click on your bot or yourself and click copy id`)
+`NOTE: id can be copied from right clicking on a user (tutorial in GETID.md)`
 
 Fill in your details in:
 Credentials (`settings/credentials.example.json`) 
