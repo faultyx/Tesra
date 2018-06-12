@@ -1,8 +1,11 @@
 # TesraBot
 
 **Packages REQUIRED**
+
 `discord.js` (npm install discord.js)
+
 `ms` (npm install ms)
+
 `os` (npm install os)
 
 **Setting up the BOT**
