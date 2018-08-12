@@ -42,7 +42,4 @@ Config (`settings/config.example.json`)
 
 
 ## Licence
-This repo is under MIT Licence [CLick here for Licence File](https://github.com/faultyx/TesraBot/blob/master/LICENCE)
-
-If you mess up and bot stop working its your problem not mine, oh and
-make sure to credit me!
+This repo is under MIT Licence [Click here for Licence File](https://github.com/faultyx/TesraBot/blob/master/LICENCE)
