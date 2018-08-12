@@ -31,7 +31,8 @@ Config (`settings/config.example.json`)
 ```js
   {
   "prefix": "PREFIX",
-  "activity": "GAME NAME"
+  "activity": "GAME NAME",
+  "activityType": "PLAYING"
 }
 ```
 **<RENAME FILE TO config.json>**
