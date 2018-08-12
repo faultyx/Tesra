@@ -1,4 +1,5 @@
 {
   "prefix": "PREFIX",
-  "activity": "GAME NAME"
+  "activity": "GAME NAME",
+  "activityType": "PLAYING"
 }
