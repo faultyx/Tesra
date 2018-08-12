@@ -17,7 +17,7 @@ bot.on("ready", () => {
   // you can set to dnd,idle,offline or online
   bot.user.setStatus("online");
   // you can set to WATCHING,LISTENING OR PLAYING
-  bot.user.setActivity(config.activity, {type: "WATCHING"});
+  bot.user.setActivity(config.activity, {type: config.activityType});
 });
 
 // Listener Event(s)
