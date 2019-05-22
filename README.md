@@ -14,15 +14,13 @@
 
 **Setting up the BOT**
 
-**Both JSON files have ".example" infront of them before ".json" so you will need to rename them to the appropiate name "config.json" etc
+**Both JSON files have ".example" infront of them before ".json" so you will need to rename them to the appropiate name "config.json" etc**
 
 `NOTE: bot token can be found from discordapp.com/developers/applications/me (tutorial in BOTAPP.md)`
 
 `NOTE: id can be copied from right clicking on a user (tutorial in GETID.md)`
 
-Fill in your details in:
-Credentials (`settings/credentials.example.json`) 
-**<RENAME FILE TO credentials.json>**
+Fill in your details in credentials:
 ```js
   {
   "botID": "BOT ID",
@@ -30,8 +28,7 @@ Credentials (`settings/credentials.example.json`)
   "botToken": "BOT TOKEN"
 }
 ```
-Fill in your details in: 
-Config (`settings/config.example.json`) 
+Fill in your details in config: 
 ```js
   {
   "prefix": "PREFIX",
