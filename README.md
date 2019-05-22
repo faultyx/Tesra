@@ -14,7 +14,7 @@
 
 **Setting up the BOT**
 
-`CONFIG AND CREDENTIALS NEED TO BE RENAMED TO config.json and credentials.json`
+**Both JSON files have ".example" infront of them before ".json" so you will need to rename them to the appropiate name "config.json" etc
 
 `NOTE: bot token can be found from discordapp.com/developers/applications/me (tutorial in BOTAPP.md)`
 
@@ -39,7 +39,6 @@ Config (`settings/config.example.json`)
   "activityType": "PLAYING"
 }
 ```
-**<RENAME FILE TO config.json [click on file and press f2 to rename]>**
   
 **Open command prompt, [shift + right click, you should see either "Open Command Prompt/Powershell here"] and type** ```node index```
 
