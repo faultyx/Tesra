@@ -1,5 +1,8 @@
 # TesraBot
 
+**Modules REQUIRED**
+[Node.js](www.nodejs.org)
+
 **Packages REQUIRED**
 
 `discord.js` (npm install discord.js)
@@ -35,12 +38,11 @@ Config (`settings/config.example.json`)
   "activityType": "PLAYING"
 }
 ```
-**<RENAME FILE TO config.json>**
+**<RENAME FILE TO config.json [click on file and press f2 to rename]>**
   
-**From here you can then open command prompt and type node index (make sure to install node from nodejs.org)**
+**Open command prompt, [shift + right click, you should see either "Open Command Prompt/Powershell here"] and type** ```node index```
 
-**ENJOY**
-
+The bot will be up and running.
 
 ## Licence
 This repo is under MIT Licence [Click here for Licence File](https://github.com/faultyx/TesraBot/blob/master/LICENCE)
