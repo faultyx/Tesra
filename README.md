@@ -12,7 +12,7 @@
 
 `os` (npm install os)
 
-**Setting up the BOT**
+# Setting up
 
 **Both JSON files have ".example" infront of them before ".json" so you will need to rename them to the appropiate name "config.json" etc**
 
