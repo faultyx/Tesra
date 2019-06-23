@@ -14,6 +14,8 @@
 
 # Setting up
 
+***THIS TUTORIAL IS WELL OUTDATED, PLEASE FIGURE OUT THE BOT YOURSELF THANK YOU. YOU CAN CHECK OUT LESI BOT FOR AN UPDATED VESION OF BOT.
+
 **Both JSON files have ".example" infront of them before ".json" so you will need to rename them to the appropiate name "config.json" etc**
 
 `NOTE: bot token can be found from discordapp.com/developers/applications/me (tutorial in BOTAPP.md)`
