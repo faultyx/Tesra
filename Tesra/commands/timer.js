@@ -1,5 +1,5 @@
 const ms = module.require("ms");
-exports.run = async (bot, message, args) => {
+module.exports.run = async (bot, message, args) => {
 
 let NTimer = args[0];
 
@@ -18,4 +18,4 @@ message.channel.send(`**Timer has ended, it was set for**: ${ms(ms(NTimer), {lon
 
 }, ms(NTimer));
 
-}
+};
