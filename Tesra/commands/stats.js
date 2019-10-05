@@ -3,7 +3,7 @@ const os = module.require('os');
 const Discord = module.require("discord.js");
 const { version } = module.require("discord.js");
 
-exports.run = async (bot, message, args) => {
+module.exports.run = async (bot, message, args) => {
 
 const arch = os.arch();
 const used = process.memoryUsage().heapUsed / 1024 / 1024;
